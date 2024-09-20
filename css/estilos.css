@@ -1,0 +1,23 @@
+body {
+    display: flex; /* Usa flexbox para layout */
+    flex-direction: column; /* Alinha os elementos em coluna */
+    align-items: center; /* Centraliza horizontalmente */
+    margin: 0; /* Remove margens padrão do body */
+    padding-top: 20px; /* Espaçamento do topo */
+}
+.titulo {
+    margin-bottom: 30px; /* Espaçamento abaixo do título */
+    font-size: 24px; /* Tamanho da fonte do título */
+    text-align: center; /* Centraliza o texto do título */
+}
+.caixa {
+    display: flex; /* Disposição horizontal */
+    align-items: center; /* Alinhamento vertical */
+    border: 2px solid ; /* Borda da caixa */
+    box-shadow: 0 4px 10px rgb(11, 0, 0); /* Efeito de sombra */
+    padding: 20px; /* Espaçamento interno */
+    background-color: #f0f0f0; /* Cor de fundo */
+    max-width: 600px; /* Largura máxima da caixa */
+    width: 100%; /* Largura total */
+    margin-top: 20px; /* Espaçamento acima da caixa */
+}
