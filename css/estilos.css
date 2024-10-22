@@ -1,6 +1,6 @@
 /* Estilos gerais do container */
 .container-custom {
-  background-color: #000;
+  background-color: #fff;
 }
 
 .carousel-control-prev-icon {
@@ -37,7 +37,7 @@
 .txt {
   width: 50%;
   text-align: justify;
-  color: white;
+  color: #000;
   padding-left: 70px;
 }
 
